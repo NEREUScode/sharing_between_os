@@ -13,7 +13,9 @@ beef
 lamb
 
 DAIRY 
-
+milk
+egg
+butter
 
 
 
